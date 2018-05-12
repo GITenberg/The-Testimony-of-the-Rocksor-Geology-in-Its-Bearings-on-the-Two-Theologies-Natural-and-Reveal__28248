@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33221'
     url: http://www.gutenberg.org/2009/agents/33221
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28248#The-Testimony-of-the-Rocksor-Geology-in-Its-Bearings-on-the-Two-Theologies-Natural-and-Reveal_
 gutenberg_issued: '2009-03-04'
 gutenberg_type: Text
 identifiers:
